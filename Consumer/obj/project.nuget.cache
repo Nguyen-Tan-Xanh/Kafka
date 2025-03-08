@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0n5Ox3dLethUWZRyb1/zrWs4FuAiHxTV+ZAMkNxFE3xQW9Ve819qeQ1vH0uf9wgzqLe49wL9lcLVYwhcg9YRZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION\\Desktop\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
